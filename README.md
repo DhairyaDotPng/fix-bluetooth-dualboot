@@ -10,7 +10,7 @@ Understanding the underlying problem with Dualbooting and bluetooth can already 
 - Stranger Danger!
 - Also both OS have their own methods to put the adapter into a half-asleep state so it can be woken up faster upon the next boot.
 
-Now let's get down to the solution, also a huge thanks to @ademlabs and his beautiful python script called [Blue-Sync](https://github.com/ademlabs/synckeys) without which, none of this would've been possible for a newbie like me. Also the steps to use his script I've taken directly from his repo, as I don't think I can explain how to use his script better than him (I don't own the script, neither have I created it or the steps to use it, I'm just putting up an exampded and consolidated one stop guide for people trying to fix Bluetooth across their Dual boot system!)
+Now let's get down to the solution, also a huge thanks to @ademlabs and his beautiful python script called [Blue-Sync](https://github.com/ademlabs/synckeys) without which, none of this would've been possible for a newbie like me. Also the steps to use his script I've taken directly from his repo, as I don't think I can explain how to use his script better than him (I don't own the script, neither have I created it or the steps to use it, I'm just putting up an exampled and consolidated one stop guide for people trying to fix Bluetooth across their Dual boot system!)
 ## Pre-Requisites 
 ### Windows
 - Turn off Fast Startup
